@@ -40,9 +40,9 @@ end
 def scrape_locations(url)
   locations = []
   doc = Nokogiri::HTML(open(url).read)
-  doc.css('.entry-content li').each do |p|
-    text = p.content.gsub(/\n/, "")
-    a = p.search('a')
+  doc.css('.entry-content li').each do |li|
+    text = li.content.gsub(/\n/, "")
+    a = li.search('a')
     href = not(a.empty?) ? a.attribute('href').value : nil
 
     locations << {
@@ -51,4 +51,14 @@ def scrape_locations(url)
     }
   end
   locations
+end
+
+def scrape_description(url)
+  text = ""
+  doc = Nokogiri::HTML(open(url).read)
+  doc.css('.entry-content p').each do |p|
+    text << p.content.gsub(/\n/, "")
+    text << "\n\n"
+  end
+  text
 end

@@ -9,6 +9,7 @@ def export(events)
   events.each do |event|
     cal.event do |e|
       e.summary = event[:summary]
+      e.description = event[:description]
       e.url = event[:url]
       e.location = event[:location]
       e.dtstart = Icalendar::Values::DateTime.new(event[:start], 'tzid' => TIMEZONE)

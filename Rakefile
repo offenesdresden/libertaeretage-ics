@@ -25,5 +25,14 @@ task :convert do
       end
     end
   end
+
+  events.each do |event|
+    url = event[:url]
+    if url and url =~ /^https:\/\/libertaeretage.noblogs.org\//
+      description = scrape_description(url)
+      event[:description] = "#{description}<#{url}>"
+    end
+  end
+
   puts export(events)
 end
