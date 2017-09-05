@@ -1,0 +1,275 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:0bb61713-3645-41d9-b14e-c5508603b371
+DTSTART;TZID=Europe/Berlin:20170904T170000
+DTEND;TZID=Europe/Berlin:20170904T183000
+LOCATION:Interrobang – Kamenzer Straße 15 <http://www.interrobang.bplace
+ d.net/home/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Einführungsveranstaltung was ist Anarchismus
+URL:https://libertaeretage.noblogs.org/post/2017/08/31/einfuhrungsveranstal
+ tung-was-ist-anarchismus/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:9ddb0f5e-0214-4309-b760-845887f0f671
+DTSTART;TZID=Europe/Berlin:20170904T190000
+DTEND;TZID=Europe/Berlin:20170904T203000
+LOCATION:Interrobang – Kamenzer Straße 15 <http://www.interrobang.bplace
+ d.net/home/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Grundthesen des Anarchosyndikalismus
+URL:https://libertaeretage.noblogs.org/post/2017/08/29/grundthesen-des-anar
+ chosyndikalismus-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:0c86db0e-b45b-415e-8123-25a6670a936a
+DTSTART;TZID=Europe/Berlin:20170904T203000
+DTEND;TZID=Europe/Berlin:20170904T220000
+LOCATION:Martin-Luther Platz
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Film Vivir la Utopie mit KÜFA
+URL:https://libertaeretage.noblogs.org/post/2017/08/29/vivir-la-utopie/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:bcddacde-7c07-498d-a82d-8d2269d48589
+DTSTART;TZID=Europe/Berlin:20170905T180000
+DTEND;TZID=Europe/Berlin:20170905T193000
+LOCATION:Hole of Fame Königsbrücker Str. 39 <http://holeoffame.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Vielfältige Perspektiven jüdischen Lebens ausserhalb der Shoa und
+  israelischer Staatspolitik
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/vielfaltige-perspekt
+ iven-judischen-lebens-ausserhalb-der-shoa-und-israelischer-staatspolitik/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:0e2f32a5-7eac-4165-bd7a-cd0e7e090c02
+DTSTART;TZID=Europe/Berlin:20170905T200000
+DTEND;TZID=Europe/Berlin:20170905T213000
+LOCATION:Hole of Fame Königsbrücker Str. 39 <http://holeoffame.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:“Demokratie” – der Gott der (Post-)Moderne.
+URL:https://libertaeretage.noblogs.org/?p=414&preview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:a8d17587-e8ed-4f60-abc7-6d8624529307
+DTSTART;TZID=Europe/Berlin:20170906T170000
+DTEND;TZID=Europe/Berlin:20170906T193000
+LOCATION:Platzda Wernerstraße 21 <http://www.platzda.pl/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Einführungsworkshop zu Justizsystem\, Strafe und Knast
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/einfuhrungsworkshop-
+ zu-justizsystem-strafe-und-knast/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:1b22ac90-fc34-417b-a179-ca9fe3ec5bf2
+DTSTART;TZID=Europe/Berlin:20170906T200000
+DTEND;TZID=Europe/Berlin:20170906T213000
+LOCATION:Platzda Wernerstraße 21 <http://www.platzda.pl/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Die Proteste gegen den G20-Gipfel. Erfahrungsbericht\, politische B
+ ewertung und anarchistische Kritik
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/die-proteste-gegen-d
+ en-g20-gipfel-erfahrungsbericht-politische-bewertung-und-anarchistische-kr
+ itik/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:98883182-3e15-41cd-bd0f-d8242d96574c
+DTSTART;TZID=Europe/Berlin:20170907T160000
+DTEND;TZID=Europe/Berlin:20170907T210000
+LOCATION:Skatepark Lignerallee – südöstlichster Punkt\, aber noch “ü
+ berm”:
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Wheelchair-Skating-Workshop
+URL:https://libertaeretage.noblogs.org/post/2017/08/28/wheelchairskatingwor
+ kshop-in-dresden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:d0cf3149-4c3f-46c4-8abb-6bd0eaea73fd
+DTSTART;TZID=Europe/Berlin:20170907T193000
+DTEND;TZID=Europe/Berlin:20170907T223000
+LOCATION:malobeo
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Workshop Solidarische Perspektiven entwickeln– jenseits von Wahl
+ en und Populismus
+URL:https://libertaeretage.noblogs.org/post/2017/08/31/solidarisch-organisi
+ eren/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:94320f73-ff48-4cdd-9ab4-f334d41f8582
+DTSTART;TZID=Europe/Berlin:20170908T150000
+DTEND;TZID=Europe/Berlin:20170908T173000
+LOCATION:Postplatz
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Feministischer Stadtrundgang
+URL:https://libertaeretage.noblogs.org/?p=399&preview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:ce6c131d-3486-47b9-a413-a8ec0a1d279a
+DTSTART;TZID=Europe/Berlin:20170908T180000
+DTEND;TZID=Europe/Berlin:20170908T193000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Anarchistisch-Feministische Positionen zur Jahrhundertwende 19./20.
+  Jahrhundert
+URL:https://libertaeretage.noblogs.org/?p=431&preview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:8f2b6f7b-43db-4c9f-b26c-ba22bc4b1f9e
+DTSTART;TZID=Europe/Berlin:20170908T200000
+DTEND;TZID=Europe/Berlin:20170908T213000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:A materialist criticism to queer trends in Feminism
+URL:https://libertaeretage.noblogs.org/post/2017/09/03/a-materialist-critic
+ ism-to-queer-trends-in-feminism/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:b6964ddc-c7cf-4a43-b75e-beb4e56b7946
+DTSTART;TZID=Europe/Berlin:20170908T160000
+DTEND;TZID=Europe/Berlin:20170908T220000
+LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Workshop: Schreiben fürs Hören\, Texten fürs Radio
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/workshop-schreiben-f
+ urs-horen-texten-furs-radio/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:274e811e-2e42-4e59-b783-c32bd6c46169
+DTSTART;TZID=Europe/Berlin:20170909T120000
+DTEND;TZID=Europe/Berlin:20170909T180000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Kinder_Kleidung_Austausch meets really really free Book Market
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/kinderkleidungaustau
+ sch-meets-reall-really-free-bookmarket/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:74a92a29-6c9e-47f3-b11f-7842074eb003
+DTSTART;TZID=Europe/Berlin:20170909T120000
+DTEND;TZID=Europe/Berlin:20170909T153000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Workshop „Verstehen verstehen“
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/workshop-verstehen-v
+ erstehen/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:eb960633-cde4-4d68-9f2a-90db8c0c4081
+DTSTART;TZID=Europe/Berlin:20170909T140000
+DTEND;TZID=Europe/Berlin:20170909T153000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Why Anarchist Black Cross?
+URL:https://libertaeretage.noblogs.org/post/2017/09/01/why-anarchist-black-
+ cross/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:ffccafc0-e291-4cb9-b2f7-914d9a3a5a53
+DTSTART;TZID=Europe/Berlin:20170909T160000
+DTEND;TZID=Europe/Berlin:20170909T173000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Vortrag “Wir sind Russen\, Gott ist mit uns”
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/vortrag-wir-sind-rus
+ sen-gott-ist-mit-uns/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:f889be0d-4452-48b6-ba82-87b3fb64d268
+DTSTART;TZID=Europe/Berlin:20170909T160000
+DTEND;TZID=Europe/Berlin:20170909T180000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:“Gegen JEDE Herrschaft” – Anarchistische Perspektiven auf Par
+ lamentarismus und Wahlen
+URL:https://libertaeretage.noblogs.org/?p=395&preview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:58e38aa4-a19b-40bf-bd50-94a1b70530cf
+DTSTART;TZID=Europe/Berlin:20170909T190000
+DTEND;TZID=Europe/Berlin:20170909T203000
+LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Staatskritik und Nebenklage? – Potentiale\, Grenzen und Risiken e
+ ines politisch nutzbaren Instruments am Beispiel der Prozesse gegen die Ne
+ onazinetzwerke “Gruppe Freital” und “Freie Kameradschaft Dresden”
+URL:https://libertaeretage.noblogs.org/?p=446&preview=true
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:6cd501a7-06dd-44e7-a77e-5f0af18cdc3e
+DTSTART;TZID=Europe/Berlin:20170909T100000
+DTEND;TZID=Europe/Berlin:20170909T180000
+LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Workshop Feministische Lektüren: Das Politische in der Literatur.
+URL:https://libertaeretage.noblogs.org/wp-admin/post.php?post=307&action=ed
+ it
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:9e72df02-80b6-4b1c-9b82-1212bd2c1cf9
+DTSTART;TZID=Europe/Berlin:20170910T100000
+DTEND;TZID=Europe/Berlin:20170910T160000
+LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Workshop How to do Radio (für Anfänger*innen)
+URL:https://libertaeretage.noblogs.org/post/2017/08/26/einfuhrungsworkshop-
+ how-to-do-radio-fur-anfangerinnen/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:8b4f65ec-7a65-47c1-864e-f1832601bf36
+DTSTART;TZID=Europe/Berlin:20170910T120000
+DTEND;TZID=Europe/Berlin:20170910T133000
+LOCATION:c3d2 Zentralwerk – Riesaer Str. 32 <https://c3d2.de/>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Für alle Sportsfreund*innen der Sperrtechnik: Lockpicking Area & W
+ orkshop!
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:755d1c00-47fd-45d5-a0a9-62b90efa050a
+DTSTART;TZID=Europe/Berlin:20170910T140000
+DTEND;TZID=Europe/Berlin:20170910T160000
+LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Technik und Emanzipation
+URL:https://libertaeretage.noblogs.org/post/2017/08/30/technik-und-emanzipa
+ tion/
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170905T181828Z
+UID:641381d5-6205-4ef3-b85f-5ddb0d19450f
+DTSTART;TZID=Europe/Berlin:20170910T163000
+DTEND;TZID=Europe/Berlin:20170910T180000
+LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
+ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
+SUMMARY:Internationale anarchistische Radioprojekte – Input und Ideenwerk
+ statt
+URL:https://libertaeretage.noblogs.org/post/2017/08/28/internationale-anarc
+ histische-radioprojekte-als-ergebnis-intensiver-vernetzungsbemuhungen/
+END:VEVENT
+END:VCALENDAR
