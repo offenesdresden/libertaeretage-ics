@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    icalendar (2.4.1)
+    mini_portile2 (2.2.0)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
+    rake (11.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  icalendar
+  nokogiri
+  rake
+
+BUNDLED WITH
+   1.13.6
