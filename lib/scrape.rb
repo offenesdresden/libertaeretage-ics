@@ -11,7 +11,7 @@ def scrape(url)
   doc.css('.entry-content p').each do |p|
     text = p.content.gsub(/\n/, "")
     if text =~ /\((\d+)\.(\d+)\)/
-      puts "## 2017-#{$2}-#{$1} ##"
+      # puts "## 2017-#{$2}-#{$1} ##"
       month = $2.to_i
       day = $1.to_i
     elsif text =~ /(?u)(\d+):(\d+)[\s––]+(\d+):(\d+)[\s–]+(.+?)\s+@\s+(.+)/
@@ -30,9 +30,25 @@ def scrape(url)
       }
       events << event
     else
-      puts "Unrecognized: #{text.inspect}"
+      $stderr.puts "Unrecognized: #{text.inspect}"
     end
   end
 
   events
+end
+
+def scrape_locations(url)
+  locations = []
+  doc = Nokogiri::HTML(open(url).read)
+  doc.css('.entry-content li').each do |p|
+    text = p.content.gsub(/\n/, "")
+    a = p.search('a')
+    href = not(a.empty?) ? a.attribute('href').value : nil
+
+    locations << {
+      :text => text,
+      :url => href
+    }
+  end
+  locations
 end

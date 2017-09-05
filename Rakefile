@@ -4,10 +4,26 @@ require 'scrape'
 require 'export'
 
 PROGRAMM_URL = "https://libertaeretage.noblogs.org/programm-2017/"
+PLACES_URL = "https://libertaeretage.noblogs.org/places/"
 
 task :default => [:convert]
 
 task :convert do
   events = scrape(PROGRAMM_URL)
+  locations = scrape_locations(PLACES_URL)
+  events.each do |event|
+    ls = locations.select { |l|
+      l[:text].downcase.start_with?(event[:location][0..6].downcase)
+    }
+    if ls.empty?
+      $stderr.puts "No location found for #{event[:location].inspect}"
+    else
+      l = ls[0]
+      event[:location] = "#{l[:text]}"
+      if (url = l[:url])
+        event[:location] += " <#{url}>"
+      end
+    end
+  end
   puts export(events)
 end
