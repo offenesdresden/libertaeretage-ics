@@ -4,10 +4,19 @@ PRODID:icalendar-ruby
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:0bb61713-3645-41d9-b14e-c5508603b371
+DTSTAMP:20170905T190513Z
+UID:f359dcd6-fade-4b7e-958b-b39b5adf4130
 DTSTART;TZID=Europe/Berlin:20170904T170000
 DTEND;TZID=Europe/Berlin:20170904T183000
+DESCRIPTION:Anarchie wird oft mit “Chaos” gleichgesetzt und viele Mensc
+ hen könnensich nicht vorstellen was “Anarchismus” überhaupt ist. Dah
+ er möchten wireinen kleinen Einblick in anarchistische Geschichte liefern
+  und einigebedeutende Strömungen aufzeigen. So können wir uns gemeinsam 
+ einenÜberblick über anarchistische Ideen verschaffen. DieserEinführungs
+ workshop richtet sich an Menschen\, denen das Thema absolutfremd ist oder 
+ die sich weiterführend mit Anarchismus beschäftigen unddarüber diskutie
+ ren wollen.\n\n<https://libertaeretage.noblogs.org/post/2017/08/31/einfuhr
+ ungsveranstaltung-was-ist-anarchismus/>
 LOCATION:Interrobang – Kamenzer Straße 15 <http://www.interrobang.bplace
  d.net/home/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
@@ -16,10 +25,12 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/31/einfuhrungsveranstal
  tung-was-ist-anarchismus/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:9ddb0f5e-0214-4309-b760-845887f0f671
+DTSTAMP:20170905T190513Z
+UID:c9d3ec28-c422-47f9-91fe-5d33ed70f97b
 DTSTART;TZID=Europe/Berlin:20170904T190000
 DTEND;TZID=Europe/Berlin:20170904T203000
+DESCRIPTION:<https://libertaeretage.noblogs.org/post/2017/08/29/grundthesen
+ -des-anarchosyndikalismus-2/>
 LOCATION:Interrobang – Kamenzer Straße 15 <http://www.interrobang.bplace
  d.net/home/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
@@ -28,20 +39,53 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/29/grundthesen-des-anar
  chosyndikalismus-2/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:0c86db0e-b45b-415e-8123-25a6670a936a
+DTSTAMP:20170905T190513Z
+UID:48000013-4a74-4e40-8a0c-09dc1ad3add1
 DTSTART;TZID=Europe/Berlin:20170904T203000
 DTEND;TZID=Europe/Berlin:20170904T220000
+DESCRIPTION:Der Film beleuchtet die anarchistischen und anarcho-syndikalist
+ ischen Bewegungen ab 1840 und während des Spanischen Bürgerkrieges 1936-
+ 1939. Im Film werden Interviews mit dreissig Anarchist*innen\, die von ihr
+ en Erfahrungen in dieser Zeit berichten gezeigt. Dabei wird insbesondere a
+ uf den Bereich des Alltagslebens und die Kollektive Selbstverwaltung fokus
+ siert und die radikalen Veränderungen gezeigt\, die sich in diesen Jahren
+  ergaben.\n\n<https://libertaeretage.noblogs.org/post/2017/08/29/vivir-la-
+ utopie/>
 LOCATION:Martin-Luther Platz
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Film Vivir la Utopie mit KÜFA
 URL:https://libertaeretage.noblogs.org/post/2017/08/29/vivir-la-utopie/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:bcddacde-7c07-498d-a82d-8d2269d48589
+DTSTAMP:20170905T190513Z
+UID:f6267962-66bb-4573-9e72-f5115cc0b445
 DTSTART;TZID=Europe/Berlin:20170905T180000
 DTEND;TZID=Europe/Berlin:20170905T193000
+DESCRIPTION:Vortrag mit anschliessender Diskussion zu Geschichten und Reali
+ täten des jüdisch Seins. Als Anstoss\, differenzierter über jüdische M
+ enschen und ihre Gegenwart und Geschichte zu denken und als Kritik am Umga
+ ng und Stellenwert mit jüdischen Stimmen in unserer Politszene. Es geht d
+ arum\, andere Perspektiven jüdischer Geschichte\, Kultur und Lebens kenne
+ nlernen\, ausserhalb von Shoa und israelischer Staatspolitik: Themen sind\
+ , wer sind jüdische Menschen\, Jüdische POC und Mizrachim\, jüdische St
+ aatskritik von Chassidismus bis Anarchismus\, feministische jüdische Idee
+ n und Geschichten die Jüd_innen nicht als wehrlose Menschen\, die schutzb
+ edürftig sind sondern als Kämpfer_innen oder Revolutionär_innen oder Bo
+ xer_innen. Ein grosses Potpourri!Der Workshop hat eine anti-zionistische i
+ nnerjüdische Perspektive und wird nicht der Raum für nicht-jüdische Ant
+ i-Deutsche sein\, ihre thematischen Akzente zu setzen. Er wird auch kein R
+ aum sein für nicht-jüdische Menschen\, auf jüdische Staatskritik mit an
+ ti-israelischen Ressentiments aufzusatteln\, um ihre antisemitische Ideolo
+ gie zu rechtfertigen und zu propagieren.Es geht darum jüdische und somit 
+ unterdrückte Perspektiven wahrzunehmen. Es bleibt kompliziert.\n\nDie vor
+ bereitende Person ist weiblich sozialisert\, trans*\, weiss\, anarchistisc
+ h geprägt\, ashkenazi jüdisch\, lebt in der Diaspora\, gut gebildet \,
+ … \,… Ich spreche Deutsch/English\, und Französisch und kann mir vors
+ tellen Teil einer gemischt sprachliche Diskussion zu sein. Der Vortrag sel
+ ber hat deutsche und englische Teile\, es ist im Moment von mir keine Uebe
+ rsetzung geplant.\n\n<https://libertaeretage.noblogs.org/post/2017/08/26/v
+ ielfaltige-perspektiven-judischen-lebens-ausserhalb-der-shoa-und-israelisc
+ her-staatspolitik/>
 LOCATION:Hole of Fame Königsbrücker Str. 39 <http://holeoffame.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Vielfältige Perspektiven jüdischen Lebens ausserhalb der Shoa und
@@ -50,20 +94,47 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/vielfaltige-perspekt
  iven-judischen-lebens-ausserhalb-der-shoa-und-israelischer-staatspolitik/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:0e2f32a5-7eac-4165-bd7a-cd0e7e090c02
+DTSTAMP:20170905T190513Z
+UID:05e8a60d-6ad9-4e68-81fc-ed75ef83e24a
 DTSTART;TZID=Europe/Berlin:20170905T200000
 DTEND;TZID=Europe/Berlin:20170905T213000
+DESCRIPTION:Von der „demokratischen Volksrepublik Nordkorea“ bis hin zu
+  den „modernen Demokratien“ der „westlichen Welt“. (Fast) Jeder St
+ aat muss seine Legitimation über die Demokratie beziehen.Der Vortrag wird
+  zunächst klären was „Demokratie“ überhaupt ist\, welche Formen die
+ se Herrschaftsform geschichtlich annahm und wie dieser Begriff heute beset
+ zt ist.Im zweiten Teil des Vortrags wird das konföderale System des Anarc
+ hismus erläutert\, die anarchistische Konfliktsoziologie erklärt als auc
+ h die anarchistische Staats- und Parteienanalyse. Im dritten und letzten T
+ eil wird auf Basis dieser Analyse die „Demokratie“ aus eben jener Pers
+ pektive kritisiert.\n\n<https://libertaeretage.noblogs.org/?p=414&preview=
+ true>
 LOCATION:Hole of Fame Königsbrücker Str. 39 <http://holeoffame.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:“Demokratie” – der Gott der (Post-)Moderne.
 URL:https://libertaeretage.noblogs.org/?p=414&preview=true
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:a8d17587-e8ed-4f60-abc7-6d8624529307
+DTSTAMP:20170905T190513Z
+UID:22cfe74e-198a-48f0-8d6e-06a508c75986
 DTSTART;TZID=Europe/Berlin:20170906T170000
 DTEND;TZID=Europe/Berlin:20170906T193000
+DESCRIPTION:Das moderne Justizsystem ist nicht älter als ein paar hundert 
+ Jahre. Massive Knastkomplexe\, benutzt zur Bestrafung und Unterjochung von
+  ungehorsamen Teilen der Gesellschaft\, sind Alltag in kapitalistischen L
+ ändern. Die Privatisierung der Knäste ändert das Konzept der Bestrafung
+  in ein profitables Geschäft mit Gefangenen\, welche heutzutage nicht nur
+  Kleidung für Polizei und Militär herstellen\, sondern auch in alltägli
+ chen Bereichen von Lebensmittelherstellung\, Autoteileproduktion bis zur A
+ rbeit im Callcenter deines Internet-Providerseingesetzt werden.\n\nIn dies
+ em Workshop möchten wir uns mit den verschiedenen Begriffen\, die Knäste
+  mit sich bringen\, kritisch auseinander setzen. Wie erfahren wir dieses s
+ taatliche System von Gerechtigkeit? Welche gesellschaftlichen Ideen von St
+ rafe existieren? Was sind andere Ansätze um mit sozialen Konflikten umzug
+ ehen? Gibt es überhaupt eine Alternative zu Knästen? Wir denken ja und w
+ ir hoffen die Türen der Knäste zu öffnen\, indem wir über eine Zukunft
+  mit leeren Zellen nachdenken.\n\n<https://libertaeretage.noblogs.org/post
+ /2017/08/26/einfuhrungsworkshop-zu-justizsystem-strafe-und-knast/>
 LOCATION:Platzda Wernerstraße 21 <http://www.platzda.pl/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Einführungsworkshop zu Justizsystem\, Strafe und Knast
@@ -71,10 +142,31 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/einfuhrungsworkshop-
  zu-justizsystem-strafe-und-knast/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:1b22ac90-fc34-417b-a179-ca9fe3ec5bf2
+DTSTAMP:20170905T190513Z
+UID:e5f897ca-5f54-46cc-8ecc-ace1a3dd7850
 DTSTART;TZID=Europe/Berlin:20170906T200000
 DTEND;TZID=Europe/Berlin:20170906T213000
+DESCRIPTION:Ohne Zweifel waren die Proteste gegen den G20-Gipfel in Hamburg
+  ein großes Ereignis für die meisten bewegungslinken und linksradikalen 
+ Akteure in der BRD und darüber hinaus. Der polizeilich gewährte Ausnahme
+ zustand im Schanzenviertel diente zur Rechtfertigung der massiven Gewalt d
+ er Polizei und ihres rechtswidrigen Handelns lange vor den Krawallen. Weit
+ erhin zielte die öffentliche Diskussion im Anschluss auf die Aufrüstung 
+ und Entdemokratisierung dieses Staats im Staate\; diente sie zur Delegitim
+ ierung jeglichen Protestes und eröffnete eine Hetzjagd gegen das konstrui
+ erte Feindbild „linksautonomer Gewalttäter“.\n\nDoch was geschah eige
+ ntlich alles sonst noch in diesen Tagen im Gefahrengebiet Hamburg? Wer ver
+ sammelte sich dort zum Protest\, wie wurde dieser inszeniert\, welche Krit
+ ik sollte daran vorgenommen werden und wie sind die Proteste insgesamt im 
+ Wahljahr 2017 einzuordnen und politisch zu bewerten?\n\nDie Veranstaltung 
+ nimmt den medialen Diskurs im Anschluss zum Aufhänger\, um einem Erfahrun
+ gsbericht Raum zu geben\, eine anarchistische Kritik zu üben und die Folg
+ en der Proteste zu besprechen. Eine Diskussion über die Legitimität von 
+ „Gewaltanwendung“ wird in diesem Zusammenhang aus Gründen nicht erfol
+ gen. Teilnehmen können alle\, die sich für das Thema interessieren\, una
+ bhängig davon\, ob sie bei den Gipfelproteste waren oder nicht.\n\n<https
+ ://libertaeretage.noblogs.org/post/2017/08/26/die-proteste-gegen-den-g20-g
+ ipfel-erfahrungsbericht-politische-bewertung-und-anarchistische-kritik/>
 LOCATION:Platzda Wernerstraße 21 <http://www.platzda.pl/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Die Proteste gegen den G20-Gipfel. Erfahrungsbericht\, politische B
@@ -84,10 +176,40 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/die-proteste-gegen-d
  itik/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:98883182-3e15-41cd-bd0f-d8242d96574c
+DTSTAMP:20170905T190513Z
+UID:539d3a05-5e5a-46c2-894e-e1e6f332f3d6
 DTSTART;TZID=Europe/Berlin:20170907T160000
 DTEND;TZID=Europe/Berlin:20170907T210000
+DESCRIPTION:The Background:\n\nIn Deutschland leben derzeit etwa 10\,2 Mill
+ ionen Menschen mit einer Behinderung. In der Öffentlichkeit ist diese Zah
+ l jedoch nicht wahrnehmbar. Verantwortlich dafür sind zahlreiche Ausgrenz
+ ungsmechanismen. Diese treten in unterschiedlichen Formen als Praxis und D
+ iskurs auf. Während Ersteres Menschen mit Behinderung die Ausgrenzung dur
+ ch fehlende Barrierefreiheit in vielen alltäglichen Situationen sprichwö
+ rtlich spüren lässt\, artikuliert sich Letzteres besonders verbal. Sprü
+ che wie: „Brauchst du dabei Hilfe?“\, „Da kannst du nicht mitmachen\
+ , weil wir denken\, dass du das nicht kannst.“\, oder „Soll ich das f
+ ür dich machen?“ zeugen von falschen Vorstellungen vom Leben mit Behind
+ erung. Diese sind in allen gesellschaftlichen Schichten und im gesamtpolit
+ ischen Spektrum –auch der Linken- leider immer noch präsent. Um auf die
+ se Problematik aufmerksam zu machen\, wollen wir zeigen\, was im Rolli auf
+  vier Rädern so alles geht.\n\nThe Action:Skatepark Dresden – Lingneral
+ lee\n\nDeshalb laden wir euch im Rahmen der Libertären Tage zum Wheelchai
+ rSkating Workshop in den Skaterpark an der Lingerallee ein. Am 07. Septemb
+ er sind wir ab 16 Uhr vor Ort. Nach einem theoretischen Input können sich
+  Menschen mit und ohne Behinderung der Herausforderung stellen\, den Skate
+ park im Rolli zu bezwingen.\n\nThe very special Guests:\n\nSchon jetzt fre
+ uen wir uns\, dass wir für die Leitung des Workshops mit Lisa Schmidt und
+  David Lebuser hochkarätige Prominenz gewinnen konnten. Beide sind bekann
+ te Szenegrößen. So nimmt David seit 2012 regelmäßig an den WCMX Weltme
+ isterschaften teil. Nach einer Drittplazierung im Jahr 2013 konnte er ein 
+ Jahr später die Gesamtwertung in der Kategorie „Best Overall Run“ abr
+ äumen. Mit den Tipps und Tricks der beiden kann man erleben\, wie krass m
+ an im Rolli abgehen kann. Don’t miss it!*\n\n*Um das Mitbringen eigener 
+ Schutzkleidung wird gebeten.\n\n*Sich rassistisch und/oder in anderer Form
+  menschenverachtend äußerde Personen sind auf dieser Veranstaltung nicht
+  erwünscht und werden von dieser ausgeschlossen!\n\n<https://libertaereta
+ ge.noblogs.org/post/2017/08/28/wheelchairskatingworkshop-in-dresden/>
 LOCATION:Skatepark Lignerallee – südöstlichster Punkt\, aber noch “ü
  berm”:
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
@@ -96,10 +218,25 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/28/wheelchairskatingwor
  kshop-in-dresden/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:d0cf3149-4c3f-46c4-8abb-6bd0eaea73fd
+DTSTAMP:20170905T190513Z
+UID:430de95b-630a-4d2f-baac-9466f11e1481
 DTSTART;TZID=Europe/Berlin:20170907T193000
 DTEND;TZID=Europe/Berlin:20170907T223000
+DESCRIPTION:Dieses Jahr stehen wieder Wahlen an. Allgegenwärtig wird klar 
+ gemacht\, dass die Wahlen unser Leben verändern und verbessern würden\, 
+ wenn Wir nur unsere Stimme abgäben. Doch Wahlen sind nur eine abstrakte F
+ orm von Politik\, die eine Mitbestimmung und Gestaltbarkeit simulieren. Di
+ e kapitalistischen Verhältnisse und das staatliche System als Ganzes steh
+ en dabei nicht zur Wahl. Ein solidarisches Miteinander ist auf diese Art u
+ nd Weise nicht möglich. Angeblich gibt es keine realen Alternativen dazu.
+  Doch Alternativen gibt es\, wir müssen sie nur (wieder) wahrnehmen\, erp
+ roben und erfahrbar machen! Wir müssen uns und andere aktiv einbeziehen!L
+ asst uns deshalb auf diesem Workshop Ideen dazu entwickeln\, uns selbstbes
+ timmt und solidarisch zu organisieren. Wir wollen bestehende Ansätze geme
+ insam mit euch diskutieren und auf ihre Verbreitung hinwirken. Lasst uns u
+ nser Leben in die eigenen Hände nehmen!\n\nDer Workshop dauert ca. 3 Stun
+ den.\n\n<https://libertaeretage.noblogs.org/post/2017/08/31/solidarisch-or
+ ganisieren/>
 LOCATION:malobeo
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Workshop Solidarische Perspektiven entwickeln– jenseits von Wahl
@@ -108,20 +245,38 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/31/solidarisch-organisi
  eren/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:94320f73-ff48-4cdd-9ab4-f334d41f8582
+DTSTAMP:20170905T190513Z
+UID:565ddcff-58de-4012-96fd-6759be64c3ca
 DTSTART;TZID=Europe/Berlin:20170908T150000
 DTEND;TZID=Europe/Berlin:20170908T173000
+DESCRIPTION:Wo trafen sich Lesben in der DDR ? Was hat Pegida mit unrasiert
+ en Achseln zu tun ? Und wer spült in der Neustadt eigentlich die Teller a
+ b ? Feministische Positionen und Stimmen sind im öffentlichen Raum noch i
+ mmer nicht ausreichend vertreten. Oft werden feministische Themen oder Err
+ ungenschaften gar mundtot gemacht oder geleugnet. Dies wollen wir ändern\
+ , indem wir im Rahmen eines feministischen Stadtrundganges durchDresden Or
+ te aufsuchen\, die sowohl historisch als auch aktuell relevante Themen in 
+ Bezug auf Feminismus\, Frauen*\, Geschlechterverhältnisse\, Sexualität\,
+  Lohnarbeit\, Politik\, etc… beinhalten. Anhand verschiedener Themenstat
+ ionen wollen wir die Varietät feministischer Kämpfe\, Inhalte und Persö
+ nlichkeiten aufzeigen. Wir laden euch ein mit uns zusammen Dresden durch d
+ ie lila Brille zu sehen!\n\nWir treffen uns am Postplatz vor dem Schauspie
+ lhaus. Der Spaziergang wird ungefähr 2\,5 Stunden dauern und wird auf bar
+ rierefreie Wege achten.\n\nIf you need an english translation please conta
+ ct us: feministory[at]notraces.net\n\nMehr Informationen gibt es auf der W
+ ebsite zum Feministischen Stadtrundgang\n\n<https://libertaeretage.noblogs
+ .org/?p=399&preview=true>
 LOCATION:Postplatz
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Feministischer Stadtrundgang
 URL:https://libertaeretage.noblogs.org/?p=399&preview=true
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:ce6c131d-3486-47b9-a413-a8ec0a1d279a
+DTSTAMP:20170905T190513Z
+UID:99d42179-8797-4f36-b073-bd6433d314b1
 DTSTART;TZID=Europe/Berlin:20170908T180000
 DTEND;TZID=Europe/Berlin:20170908T193000
+DESCRIPTION:<https://libertaeretage.noblogs.org/?p=431&preview=true>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Anarchistisch-Feministische Positionen zur Jahrhundertwende 19./20.
@@ -129,10 +284,12 @@ SUMMARY:Anarchistisch-Feministische Positionen zur Jahrhundertwende 19./20.
 URL:https://libertaeretage.noblogs.org/?p=431&preview=true
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:8f2b6f7b-43db-4c9f-b26c-ba22bc4b1f9e
+DTSTAMP:20170905T190513Z
+UID:0f5def34-2064-441e-b2b7-c02e8b0dca18
 DTSTART;TZID=Europe/Berlin:20170908T200000
 DTEND;TZID=Europe/Berlin:20170908T213000
+DESCRIPTION:<https://libertaeretage.noblogs.org/post/2017/09/03/a-materiali
+ st-criticism-to-queer-trends-in-feminism/>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:A materialist criticism to queer trends in Feminism
@@ -140,10 +297,23 @@ URL:https://libertaeretage.noblogs.org/post/2017/09/03/a-materialist-critic
  ism-to-queer-trends-in-feminism/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:b6964ddc-c7cf-4a43-b75e-beb4e56b7946
+DTSTAMP:20170905T190513Z
+UID:d5ee4855-f79c-4983-af78-651d8cd3ced1
 DTSTART;TZID=Europe/Berlin:20170908T160000
 DTEND;TZID=Europe/Berlin:20170908T220000
+DESCRIPTION:Wir beschäftigen uns mit dem Unterschied zwischen der Schrifts
+ prache\, die wir in der Schule oder Uni gelernt haben\, und der Sprechspra
+ che\, die im Radio viel besser funktioniert.Im Workshop verfasst ihr Texte
+  oder bringt welche mit\, die ihr sowieso für eure Radiosendung braucht. 
+ Am konkreten Beispiel lernt ihr das Handwerkszeug\, um gut hörbare und ve
+ rständliche Texte zu schreiben. Das ist nicht nur im Radio wichtig sonder
+ n z.B. auch bei Redebeiträgen für Demos.\n\nVoraussetzung: ein wenig Erf
+ ahrung im Radiomachen oder Demo-Redebeiträge-Schreiben ist sinnvoll\, abe
+ r nicht zwingend notwendig\n\nAnmeldung: bitte bis zum 4. September 2017 a
+ n workshop@coloradio.org\, und bitte verbindlich – d.h.\, wenn ihr nicht
+  könnt\, meldet euch wieder ab!\n\nDozentin: Antje Meichsner\, Radiomache
+ rin und Medienpädagogin\n\n<https://libertaeretage.noblogs.org/post/2017/
+ 08/26/workshop-schreiben-furs-horen-texten-furs-radio/>
 LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Workshop: Schreiben fürs Hören\, Texten fürs Radio
@@ -151,10 +321,12 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/workshop-schreiben-f
  urs-horen-texten-furs-radio/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:274e811e-2e42-4e59-b783-c32bd6c46169
+DTSTAMP:20170905T190513Z
+UID:2556015e-197f-43c6-9b2f-0521801a919c
 DTSTART;TZID=Europe/Berlin:20170909T120000
 DTEND;TZID=Europe/Berlin:20170909T180000
+DESCRIPTION:\n\n<https://libertaeretage.noblogs.org/post/2017/08/26/kinderk
+ leidungaustausch-meets-reall-really-free-bookmarket/>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Kinder_Kleidung_Austausch meets really really free Book Market
@@ -162,10 +334,29 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/kinderkleidungaustau
  sch-meets-reall-really-free-bookmarket/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:74a92a29-6c9e-47f3-b11f-7842074eb003
+DTSTAMP:20170905T190513Z
+UID:13a796d5-294f-4c9d-87d5-a2c8b0f1bb1f
 DTSTART;TZID=Europe/Berlin:20170909T120000
 DTEND;TZID=Europe/Berlin:20170909T153000
+DESCRIPTION:In einer Welt in der die Ausdifferenzierung und Individualisier
+ ung von Menschen immer weiter voranschreitet\, sehen wir uns immer öfters
+  mit Anderen konfrontiert die uns irritieren und mit denen wir nicht autom
+ atisch dasselbe Verständnis von den Dingen teilen. Selbst wenn wir die gl
+ eiche Sprache sprechen\, reden wir scheinbar immer öfter aneinander vorbe
+ i. Was in den letzten Jahren mit dem Begriff der filter bubble (Filterblas
+ e) ins öffentliche Bewusstsein gedrungen ist\, beeinflusst unsern Alltag 
+ immer dann\, wenn wir uns aus unseren vertrauten Kreisen herausbewegen und
+  mit Menschen aus anderen Ideenwelten kommunizieren wollen (oder müssen).
+  Mit diesem Workshop wollen wir uns der anspruchsvollen Aufgabe stellen un
+ s theoretisch an das heranzutasten was mit uns und anderen passiert\, wenn
+  wir „verstehen“. Wir unternehmen hier kein Kommunikations-training\, 
+ keinen Gedankenlese-Kurs und keine Therapie\, sondern stellen uns der Frag
+ e\, wie es kommt\, dass Menschen sich und die Welt in der sie leben andere
+ s Wahrnehmen als wir das tun. Welche Rolle spielen Gefühle und Sprache da
+ bei? Was kann uns dabei helfen die/den Andere/n zu deuten?\n\nDer Workshop
+  besteht aus 2 Teilen von jeweils 1\,5 Stunden:\n\nTeil 1: Fühlen und Den
+ kenTeil 2: Sprache und Identität\n\n<https://libertaeretage.noblogs.org/p
+ ost/2017/08/26/workshop-verstehen-verstehen/>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Workshop „Verstehen verstehen“
@@ -173,10 +364,23 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/workshop-verstehen-v
  erstehen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:eb960633-cde4-4d68-9f2a-90db8c0c4081
+DTSTAMP:20170905T190513Z
+UID:1c619b30-1de6-4187-b456-3e897d6e1b26
 DTSTART;TZID=Europe/Berlin:20170909T140000
 DTEND;TZID=Europe/Berlin:20170909T153000
+DESCRIPTION:Anarchist Black Cross is an organization that supports anarchis
+ t and anti-authoritarian prisoners around the world. Different groups of A
+ BC were involved in the anarchist struggle at different periods starting f
+ rom the beginning of 20 century.\n\nWhat were the reasons that pushed peop
+ le to create organization and why after more than 100 years it is still ac
+ tual and needs energy from anarchists all around the world?\n\nWhat are th
+ e struggles that ABC groups are wagging these days in the fight against th
+ e state?\n\nDuring the presentation\, this and many other questions will b
+ e raised in attempt to catch up with the history of anarchist antirepressi
+ on movement.\n\nAfter the presentation we will have time for discussion on
+  the actuality of ABC approaches in Germany.\n\nThe presentation will be i
+ n English. Whisper translation into german will be available.\n\n<https://
+ libertaeretage.noblogs.org/post/2017/09/01/why-anarchist-black-cross/>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Why Anarchist Black Cross?
@@ -184,10 +388,31 @@ URL:https://libertaeretage.noblogs.org/post/2017/09/01/why-anarchist-black-
  cross/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:ffccafc0-e291-4cb9-b2f7-914d9a3a5a53
+DTSTAMP:20170905T190513Z
+UID:4b55db6b-a15d-4f97-bb5f-1a341c515015
 DTSTART;TZID=Europe/Berlin:20170909T160000
 DTEND;TZID=Europe/Berlin:20170909T173000
+DESCRIPTION:So geht eine russische Militärhymne. Im maroden Russland ahnde
+ t man nach irgendeiner nationalen Idee\, um nach außen hin handlungsfähi
+ ger zu werden\, sich von der Knechtschaft durch fremde Mächte zu befreien
+  und endlich einen eigenen zivilisatorischen Weg zu gehen. Die Annexion de
+ r Krim sei die Wiederaneignung des für orthodoxe ChristInnen heiligen Bod
+ ens\, die Militäroperation in Syrien – gar der heilige Krieg gegen das 
+ Böse schlechthin\; man auferlegt sich innenpolitisch „geistige Fesseln
+ “\, was so viel heißen soll\, dass kaum ein repressiver\, reaktionärer
+  Gesetzesvorschlag ohne eine wie auch immer geartete Bezugnahme auf höher
+ e\, religiöse Werte auskommt. Da kommt die Russische Orthodoxe Kirche mit
+  ihrer tausendjähriger Geschichte auf ihre Kosten und darf als Staatsmono
+ pol für höhere Werte auftreten.\n\nDoch der Schein trügt. Es ist die Sc
+ hwäche\, die verzweifelt nach Bindung sucht. In der postsowjetischen Post
+ moderne muss man sich zwischen Fundamentalismus und Nihilismus nicht entsc
+ heiden\; nicht gläubige Individuen inszenieren sich als gläubige Nation 
+ in einem säkularen Staat. Die Religion ist im heutigen Russland ein umkä
+ mpftes Gebiet\, doch es geht nicht mehr um sie.\n\nDie neue Ausgabe des Gr
+ ossen Thiers möchte zu einer Religionskritik beitragen\, die notwendigerw
+ eise die Kritik des irdischen Jammertals und keine „idealistische Hermen
+ eutik“ sein soll.\n\n<https://libertaeretage.noblogs.org/post/2017/08/26
+ /vortrag-wir-sind-russen-gott-ist-mit-uns/>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Vortrag “Wir sind Russen\, Gott ist mit uns”
@@ -195,10 +420,24 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/vortrag-wir-sind-rus
  sen-gott-ist-mit-uns/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:f889be0d-4452-48b6-ba82-87b3fb64d268
+DTSTAMP:20170905T190513Z
+UID:5878f073-8392-4e2b-b1d0-77dd88f90a5b
 DTSTART;TZID=Europe/Berlin:20170909T160000
 DTEND;TZID=Europe/Berlin:20170909T180000
+DESCRIPTION:Im September diesen Jahres stehen die nächsten Bundestagswahle
+ n an. Schon Grinsen uns wieder bekannte und unbekannte Gesichter zu hunder
+ ten von Laternenmasten an. Sie stellen politische Forderungen\, alte\, neu
+ e\, unverständliche oder auch absurde.\n\nGrund genug\, sich mit der anar
+ chistischen Kritik am Parlamentarismus zu beschäftigen und die Frage zu d
+ iskutieren: “Wollen wir dieses Spiel mitspielen?” – Im Klartext: Wä
+ hlen? Ja/Nein Warum/Warum nicht\n\nDer Workshop soll der Frage nachgehen\,
+  ob es Alternativen zurrepresentativen Demokratie geben kann\, wie diese a
+ ussehen könnten und welche historischen Beispiele es gibt. Vor allem aber
+  wollen wir euch eine Entscheidungsgrundlage für die Frage geben\, ob ihr
+  wählen gehen wollt oder nicht\, welche Konsequenzen daswirklich hat\, we
+ lche Botschaft ihr damit sendet und welche gängigen Positionen dazu ins R
+ eich der Mythen gehören.\n\n<https://libertaeretage.noblogs.org/?p=395&pr
+ eview=true>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:“Gegen JEDE Herrschaft” – Anarchistische Perspektiven auf Par
@@ -206,10 +445,61 @@ SUMMARY:“Gegen JEDE Herrschaft” – Anarchistische Perspektiven auf Par
 URL:https://libertaeretage.noblogs.org/?p=395&preview=true
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:58e38aa4-a19b-40bf-bd50-94a1b70530cf
+DTSTAMP:20170905T190513Z
+UID:9ade53e5-45e7-41e9-acca-2b344d62cba1
 DTSTART;TZID=Europe/Berlin:20170909T190000
 DTEND;TZID=Europe/Berlin:20170909T203000
+DESCRIPTION:Potentiale\, Grenzen und Risiken eines politisch nutzbaren Inst
+ ruments am Beispiel der Prozesse gegen die Neonazinetzwerke „Gruppe Frei
+ tal“ und „Freie Kameradschaft Dresden“.\n\nEin durch und durch repre
+ ssives\, reaktionäres und rechtskonservatives Justizsystem prägt unseren
+  Alltag. Es lobt sich rechtsstaatlich\, schützt jedoch in erster Linie di
+ e Interessen der Mächtigen\, (Einfluss)Reichen und anderer Eliten und bek
+ ämpft alle\, die diese Interessen kritisieren und bedrohen\, darunter bes
+ onders politischen staatskritischen Aktivismus und Akteur_innen sozialer B
+ ewegungen. Die sächsische Justiz seit jeher überwiegend blind\, taub und
+  stumm gegenüber rechtsradikalen\, rassistischen und nationalistischen Ge
+ danken\, Worten und Taten wurde jedoch durch die bundesweite Berichterstat
+ tung über die sich seit 2015 immer schneller drehende faschistische Gewal
+ tspirale so sehr unter Druck gesetzt\, dass sie sich genötigt sah\, einig
+ e besonders auffällige Neonazi-Gruppierungen zu verfolgen. Dazu zählt di
+ e „Freie Kameradschaft Dresden“\, gegen deren Mitglieder dieses Jahr m
+ ehrere Prozesse am Landgericht Dresden (LG) stattfinden. Der Prozess gegen
+  die sogenannte Gruppe Freital\, der seit März 2017 am Oberlandesgericht 
+ Dresden (OLG) gegen acht Neonazis unter anderem wegen der Bildung einer te
+ rroristischen Vereinigung und versuchtem Mord verhandelt wird\, wurde hing
+ egen von der Bundesstaatsanwaltschaft erzwungen und die Ermittlungen zuvor
+  den sächsischen Behörden entzogen\, da die sächsische Justiz dieAnschl
+ agsserie der Freitaler Neonazigruppierung am Amtsgericht abhandeln wollte 
+ und wie im Prozess immer wieder ersichtlich wird\, stellenweise Ermittlung
+ en behinderte und die politische Tatmotivation leugnete.\n\nObwohl bundesw
+ eite Behörden also scheinbar faschistische Anschläge tendenziell eher al
+ s solche anerkennen als die sächsischen und damit minimale Kurskorrekture
+ n vorzunehmen in der Lage scheinen\, zeigt sich auch in diesem Prozess\, w
+ ie wenig das Gericht und die Bundesanwaltschaft die Interessen der Betroff
+ enen von den Anschlägen der Neonazis interessieren. Die Nebenklage als vo
+ m Staat konstruiertes Instrument sollte dazu dienen\, diese Interessen zu 
+ wahren. Jedoch ist jeder Prozesseinzigartig und unvorhersehbar und Richter
+ _innen legen das Gesetz mit jeder Entscheidung im Gerichtssaal neu aus. Si
+ e sind diejenigen Instanzen im „Rechtsstaat“\, die sich am wenigsten a
+ ns Gesetz halten müssen\, weil ihre Interpretationen und Handlungen bis a
+ uf einzelne Ausnahmen keine Konsequenzen für sie selbst haben\, sondern n
+ ur für andere.\n\nIn Vortrag und Diskussion soll erörtert und kritisiert
+  werden\, wasNebenklage bedeutet\, welche Potentiale und Chancen\, aber me
+ hr noch welche Risiken\, Gefahren und Probleme mit ihr einhergehen. Denn d
+ er größte\, nicht auflösbare und mit anarchistischer Theorie und Praxis
+  unvereinbare Widerspruch ist der offizielle Anschluss an eine Anklage von
+  einer Staatsanwaltschaft\, die zu einer erheblichen Mehrheit sozial aktiv
+ e\, links(radikale) oder als linkspolitisch wahrgenommene Mitglieder\, Net
+ zwerke und Initiativen verfolgt und rechte (Straf)Taten oftmals nicht einm
+ al als solche werten\, geschweige denn verfolgen will.Dennoch haben sich M
+ enschen aus einem Dresdner Hausprojekt\, dass von Neonazis der „Gruppe F
+ reital“ und der „Freien Kameradschaft Dresden“ im Herbst 2015 angegr
+ iffen wurde\, für eine Nebenklage in mehreren Prozessen entschieden. Dahe
+ r sollen Möglichkeiten und Probleme des auch politisch nutzbaren Instrume
+ nts der Nebenklage an den bisher stattfindenden Prozessen gegen die beiden
+  Neonazigruppen vorgestellt und diskutiert werden.\n\n<https://libertaeret
+ age.noblogs.org/?p=446&preview=true>
 LOCATION:Betriebsküche Berliner Str. 63 <https://www.kuneterakete.de/>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Staatskritik und Nebenklage? – Potentiale\, Grenzen und Risiken e
@@ -218,10 +508,12 @@ SUMMARY:Staatskritik und Nebenklage? – Potentiale\, Grenzen und Risiken e
 URL:https://libertaeretage.noblogs.org/?p=446&preview=true
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:6cd501a7-06dd-44e7-a77e-5f0af18cdc3e
+DTSTAMP:20170905T190513Z
+UID:4a817d66-be3c-498f-a6b1-1135fdd694c1
 DTSTART;TZID=Europe/Berlin:20170909T100000
 DTEND;TZID=Europe/Berlin:20170909T180000
+DESCRIPTION:<https://libertaeretage.noblogs.org/wp-admin/post.php?post=307&
+ action=edit>
 LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Workshop Feministische Lektüren: Das Politische in der Literatur.
@@ -229,10 +521,20 @@ URL:https://libertaeretage.noblogs.org/wp-admin/post.php?post=307&action=ed
  it
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:9e72df02-80b6-4b1c-9b82-1212bd2c1cf9
+DTSTAMP:20170905T190513Z
+UID:adf81fb5-20be-4d97-a20e-843065e53c9d
 DTSTART;TZID=Europe/Berlin:20170910T100000
 DTEND;TZID=Europe/Berlin:20170910T160000
+DESCRIPTION:Hast du Lust\, kleinere Radiobeiträge zu machen\, zu podcasten
+ \, beim Anarchistischen Hörfunk mitzumachen oder bei coloRadio einzusteig
+ en? Beim Einführungsworkshop lernst du alles\, was du zum eigenständigen
+  Radiomachen von der Aufnahme bis zum fertigen Beitrag brauchst: Mikrofoni
+ eren\, Interview\, Audioschnitt und Editing mit Audacity (kostenloses Prog
+ ramm)\, Schreiben fürs Hören\, Anmoderation und Sprechen im Radio.\n\nAn
+ meldung: bitte bis zum 6. September 2017 an workshop@coloradio.org\, und b
+ itte verbindlich – d.h.\, wenn ihr nicht könnt\, meldet euch wieder ab.
+ \n\n<https://libertaeretage.noblogs.org/post/2017/08/26/einfuhrungsworksho
+ p-how-to-do-radio-fur-anfangerinnen/>
 LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Workshop How to do Radio (für Anfänger*innen)
@@ -240,8 +542,8 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/26/einfuhrungsworkshop-
  how-to-do-radio-fur-anfangerinnen/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:8b4f65ec-7a65-47c1-864e-f1832601bf36
+DTSTAMP:20170905T190513Z
+UID:47767408-360b-425d-a48b-5f0b02398c77
 DTSTART;TZID=Europe/Berlin:20170910T120000
 DTEND;TZID=Europe/Berlin:20170910T133000
 LOCATION:c3d2 Zentralwerk – Riesaer Str. 32 <https://c3d2.de/>
@@ -250,10 +552,24 @@ SUMMARY:Für alle Sportsfreund*innen der Sperrtechnik: Lockpicking Area & W
  orkshop!
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:755d1c00-47fd-45d5-a0a9-62b90efa050a
+DTSTAMP:20170905T190513Z
+UID:2ca5138f-337d-4a26-a1ac-b085addf6d21
 DTSTART;TZID=Europe/Berlin:20170910T140000
 DTEND;TZID=Europe/Berlin:20170910T160000
+DESCRIPTION:Technik ist selten neutral. Je nach Anwendung kann die selbe Er
+ findung Freiheit verschaffen oder Abhängigkeiten erzeugen. So waren z.B. 
+ viele Internetpioniere vom emanzipatorischen Potential des Netzes überzeu
+ gt – diese Sichtweise ist heute nicht mehr die bestimmende.\n\nIn einem 
+ kurzen Input sollen beispielhaft verschiedene Aspekte der Verschränkung v
+ on technischen und gesellschaftlichen Entwicklungen angerissen werden um d
+ ann in einen fruchtigen Austausch und wildes Spekulieren über die Zukunft
+  zu münden. Oder so ähnlich\, die Vorbereitungen sind alles andere als a
+ bgeschlossen – schau vielleicht 2\,3 Tage vor der Veranstaltung nochmal 
+ hier vorbei. Wer sich in die Vorbereitungen einbringen mag\, anregungen od
+ er Nachfragen hat maile an alles [aett] fueralle [punkt] org.\n\nDas Ganze
+  wird im Seminarraum von coloRadio\, Haus B im Zentralwerk\, am 10.9. von 
+ 14-16 Uhr stattfinden.\n\n<https://libertaeretage.noblogs.org/post/2017/08
+ /30/technik-und-emanzipation/>
 LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Technik und Emanzipation
@@ -261,10 +577,35 @@ URL:https://libertaeretage.noblogs.org/post/2017/08/30/technik-und-emanzipa
  tion/
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20170905T181828Z
-UID:641381d5-6205-4ef3-b85f-5ddb0d19450f
+DTSTAMP:20170905T190513Z
+UID:ff6b3f0b-76e4-425d-8a4a-5497fd36e367
 DTSTART;TZID=Europe/Berlin:20170910T163000
 DTEND;TZID=Europe/Berlin:20170910T180000
+DESCRIPTION:In einem kurzen Vortrag soll es zunächst um aktuelle Radioproj
+ ekte gehen\, die sich auf internationaler Ebene abspielen: die Infrastrukt
+ urkampagne vom A-Radio Berlin\, die monatliche Infosendung “B(A)D NEWS
+ ” und der libertäre 24/7-Onlinestream des “Channel Zero Network“. A
+ lle haben ihren eigenen Charakteristiken und sprechen unterschiedliche Bed
+ üfnisse an. Ihnen gemein ist jedoch der Wille\, über den eigenen Tellerr
+ and zu schauen und die gegenseitige Hilfe auch im Kontext des Äthers und 
+ der digitalen Medien umzusetzen.\n\nIm Anschluss an den Input möchten wir
+  gemeinsam diskutieren\, wie sich die bestehenden Projekte unterstützen o
+ der womöglich noch verbessern lassen. Außerdem werden wir versuchen\, ei
+ nige kreative Ideen für neue Projekte zu spinnen. Kommt dazu!\n\nOrganisi
+ ert vom Anarchistischen Radio Berlin.\n\nInternational anarchist radio pro
+ jects – Input and ideas workshop\n\nFirst there will be a short input pr
+ esenting ongoing radio projects that are being implemented at an internati
+ onal level: the infrastructure campaign from A-Radio Berin\, the monthly n
+ ews show “B(A)D NEWS” and the anarchist 24/7 livestream from the “Ch
+ annel Zero Network“. All of these projects have their own qualities and 
+ address different needs. What they have in common though\, is the determin
+ ation of looking beyond their own horizon and practicing mutual aid in the
+  context of airwaves and digital media as well.\n\nAfter the input we woul
+ d like to debate together how the current projects can be supported or eve
+ n improved. Further more we would like to try explore creative ideas for n
+ ew projects. Join the discussion!\n\n<https://libertaeretage.noblogs.org/p
+ ost/2017/08/28/internationale-anarchistische-radioprojekte-als-ergebnis-in
+ tensiver-vernetzungsbemuhungen/>
 LOCATION:coloRadio Zentralwerk – Riesaer Str. 32 <http://coloradio.org>
 ORGANIZER;CN=Libertäre Tage Dresden:mailto:libtage2016@riseup.net
 SUMMARY:Internationale anarchistische Radioprojekte – Input und Ideenwerk
